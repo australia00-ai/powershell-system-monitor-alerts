@@ -1,4 +1,5 @@
-Here’s a clean **GitHub-ready repo name, heading, and summary** for your monitoring script:
+<img width="147" height="324" alt="image" src="https://github.com/user-attachments/assets/eb236d75-8e26-4859-9675-d727580c4cc4" />
+
 
 ***
 
